@@ -1,0 +1,13 @@
+payroll
+entry_channel : khe
+mortgage
+
+
+los que tienen ciertos productos
+
+
+en funcion de como se entrena definir como se evaluara, posiblemente 3 meses de validacion
+
+
+
+grafico, clasificacion, clusterning 
