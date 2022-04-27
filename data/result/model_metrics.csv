@@ -1,0 +1,11 @@
+,target,target_mean,date,is_overfitted,roc_auc_train,roc_auc_test,roc_auc_val,accuracy_train,accuracy_test,accuracy_val,recall_train,recall_test,recall_val,precision_train,precision_test,precision_val,f1_score_train,f1_score_test,f1_score_val,model
+0,em_acount,0.6652690468555571,2022-04-27 14:07:37.791925,False,0.9221829966121438,0.9201401088717103,0.8851161047592917,0.8691041005964596,0.8697476025774183,0.8214868143669702,0.9290930104776521,0.9299269409161185,0.8243526941917425,0.8807050439305445,0.8809103309641755,0.37149164301482185,0.9042521607482358,0.9047552334112476,0.5121739130434784,"XGBClassifier(base_score=0.5, booster='gbtree', colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=1, enable_categorical=False,
+              gamma=0, gpu_id=-1, importance_type=None,
+              interaction_constraints='', learning_rate=0.300000012,
+              max_delta_step=0, max_depth=5, min_child_weight=100, missing=nan,
+              monotone_constraints='()', n_estimators=100, n_jobs=12,
+              num_parallel_tree=1, predictor='auto', random_state=123,
+              reg_alpha=0, reg_lambda=1, scale_pos_weight=1, subsample=1,
+              tree_method='exact', use_label_encoder=False,
+              validate_parameters=1, verbosity=None)"
