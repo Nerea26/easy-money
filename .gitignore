@@ -5,7 +5,7 @@ data/raw/*
 data/external/*
 data/interim/*
 data/processed/*
-data/result/potential_clients/*
+data/result/*
 
 # exception to the rule
 !data/raw/.gitkeep
